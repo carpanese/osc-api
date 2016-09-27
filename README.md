@@ -21,8 +21,6 @@ Visit the website http://www.osclass.org to learn more about the osclass classif
 > This API was developed to be a starting point for the operation of the mobile application OSC-APP searches.
 
 
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
-
 ### Technologies used in this API
 
 * [PHP] - PHP language
